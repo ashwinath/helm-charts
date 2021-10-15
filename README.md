@@ -3,12 +3,15 @@
 ## Usage
 
 First, add the repository:
-    helm repo add ashwinath https://ashwinath.github.io/helm-charts/
 
-If you had already added this repo earlier, run `helm repo update` to retrieve the latest versions of the packages. You can then run `helm search repo turing` to see the charts.
+`helm repo add ashwinath https://ashwinath.github.io/helm-charts/`
 
-To install the \<chart-name\> chart:
-    helm install <release-name> ashwinath/<chart-name>
+If you had already added this repo earlier, run `helm repo update` to retrieve the latest versions of the packages. You can then run `helm search repo ashwinath` to see the charts.
+
+To install the chart:
+
+`helm install <release-name> ashwinath/<chart-name>`
 
 To uninstall the chart:
-    helm delete <release-name>
+
+`helm delete <release-name>`
