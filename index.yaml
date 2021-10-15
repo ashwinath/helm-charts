@@ -3,16 +3,16 @@ entries:
   financials:
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2021-10-15T15:36:34.982956558Z"
+    created: "2021-10-15T15:40:00.181893885Z"
     dependencies:
     - name: postgresql
       repository: https://charts.bitnami.com/bitnami
       version: 10.12.4
     description: Helm chart for financials
-    digest: 129eda5c735c91756b49b86d390fb1df9068f8e5f5969e43b87a2d9bba7e0dee
+    digest: bfb9794d10abedccea859abc9946213b28109da0ec9e8709428b3131212159ac
     name: financials
     type: application
     urls:
     - https://github.com/ashwinath/helm-charts/financials-0.0.1.tgz
     version: 0.0.1
-generated: "2021-10-15T15:36:34.974341136Z"
+generated: "2021-10-15T15:40:00.174456927Z"
