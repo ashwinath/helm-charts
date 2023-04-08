@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   financials:
   - apiVersion: v2
-    created: "2023-04-08T08:25:21.938813809Z"
+    created: "2023-04-08T08:30:02.428166329Z"
     dependencies:
     - name: postgresql
       repository: https://raw.githubusercontent.com/bitnami/charts/pre-2022/bitnami
@@ -15,7 +15,7 @@ entries:
     - https://ashwinath.github.io/helm-charts/financials-2.2.2.tgz
     version: 2.2.2
   - apiVersion: v2
-    created: "2023-04-08T08:25:21.934278585Z"
+    created: "2023-04-08T08:30:02.418815655Z"
     dependencies:
     - name: postgresql
       repository: https://raw.githubusercontent.com/bitnami/charts/pre-2022/bitnami
@@ -28,7 +28,7 @@ entries:
     - https://ashwinath.github.io/helm-charts/financials-2.2.1.tgz
     version: 2.2.1
   - apiVersion: v2
-    created: "2023-04-08T08:25:21.929744661Z"
+    created: "2023-04-08T08:30:02.414240268Z"
     dependencies:
     - name: postgresql
       repository: https://raw.githubusercontent.com/bitnami/charts/pre-2022/bitnami
@@ -41,7 +41,7 @@ entries:
     - https://ashwinath.github.io/helm-charts/financials-2.2.0.tgz
     version: 2.2.0
   - apiVersion: v2
-    created: "2023-04-08T08:25:21.92399953Z"
+    created: "2023-04-08T08:30:02.40967108Z"
     dependencies:
     - name: postgresql
       repository: https://raw.githubusercontent.com/bitnami/charts/pre-2022/bitnami
@@ -54,7 +54,7 @@ entries:
     - https://ashwinath.github.io/helm-charts/financials-2.1.1.tgz
     version: 2.1.1
   - apiVersion: v2
-    created: "2023-04-08T08:25:21.919501406Z"
+    created: "2023-04-08T08:30:02.404177496Z"
     dependencies:
     - name: postgresql
       repository: https://raw.githubusercontent.com/bitnami/charts/pre-2022/bitnami
@@ -67,7 +67,7 @@ entries:
     - https://ashwinath.github.io/helm-charts/financials-2.1.0.tgz
     version: 2.1.0
   - apiVersion: v2
-    created: "2023-04-08T08:25:21.915003682Z"
+    created: "2023-04-08T08:30:02.399630608Z"
     dependencies:
     - name: postgresql
       repository: https://raw.githubusercontent.com/bitnami/charts/pre-2022/bitnami
@@ -80,7 +80,7 @@ entries:
     - https://ashwinath.github.io/helm-charts/financials-2.0.0.tgz
     version: 2.0.0
   - apiVersion: v2
-    created: "2023-04-08T08:25:21.909591154Z"
+    created: "2023-04-08T08:30:02.395151421Z"
     dependencies:
     - name: postgresql
       repository: https://charts.bitnami.com/bitnami
@@ -93,7 +93,7 @@ entries:
     - https://ashwinath.github.io/helm-charts/financials-1.2.1.tgz
     version: 1.2.1
   - apiVersion: v2
-    created: "2023-04-08T08:25:21.904906929Z"
+    created: "2023-04-08T08:30:02.390200735Z"
     dependencies:
     - name: postgresql
       repository: https://charts.bitnami.com/bitnami
@@ -106,7 +106,7 @@ entries:
     - https://ashwinath.github.io/helm-charts/financials-1.2.0.tgz
     version: 1.2.0
   - apiVersion: v2
-    created: "2023-04-08T08:25:21.900251804Z"
+    created: "2023-04-08T08:30:02.385071449Z"
     dependencies:
     - name: postgresql
       repository: https://charts.bitnami.com/bitnami
@@ -119,7 +119,7 @@ entries:
     - https://ashwinath.github.io/helm-charts/financials-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v2
-    created: "2023-04-08T08:25:21.894469674Z"
+    created: "2023-04-08T08:30:02.380423062Z"
     dependencies:
     - name: postgresql
       repository: https://charts.bitnami.com/bitnami
@@ -133,7 +133,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-04-08T08:25:21.88999395Z"
+    created: "2023-04-08T08:30:02.375080477Z"
     dependencies:
     - name: postgresql
       repository: https://charts.bitnami.com/bitnami
@@ -147,7 +147,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: 0.0.1
-    created: "2023-04-08T08:25:21.884865223Z"
+    created: "2023-04-08T08:30:02.369523792Z"
     dependencies:
     - name: postgresql
       repository: https://charts.bitnami.com/bitnami
@@ -162,14 +162,14 @@ entries:
   money-tracker-telegram:
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2023-04-08T08:25:21.951340675Z"
+    created: "2023-04-08T08:30:02.439500097Z"
     dependencies:
     - name: postgresql
       repository: https://charts.bitnami.com/bitnami
       version: 12.2.7
     description: A Helm chart for Kubernetes to deploy the money tracker telegram
       bot
-    digest: 2b6e9e378f6b3fd3e6fa60259bbf803152fc9f786f1d8ccce0c6dc09c9b1bbc9
+    digest: de6ea3381c1f57d38b1013feb9f9cea300eac9b0fd86c983404181db3dfc2afc
     name: money-tracker-telegram
     type: application
     urls:
@@ -177,7 +177,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-04-08T08:25:21.945447644Z"
+    created: "2023-04-08T08:30:02.433330514Z"
     dependencies:
     - name: postgresql
       repository: https://charts.bitnami.com/bitnami
@@ -190,4 +190,4 @@ entries:
     urls:
     - https://ashwinath.github.io/helm-charts/money-tracker-telegram-0.1.0.tgz
     version: 0.1.0
-generated: "2023-04-08T08:25:21.87874659Z"
+generated: "2023-04-08T08:30:02.364570806Z"
