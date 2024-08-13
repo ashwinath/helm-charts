@@ -312,4 +312,19 @@ entries:
     urls:
     - https://ashwinath.github.io/helm-charts/money-tracker-telegram-0.1.0.tgz
     version: 0.1.0
-generated: "2024-06-22T17:07:46.294026835Z"
+  moneybags:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2024-08-13T15:03:47.137416457Z"
+    dependencies:
+    - name: postgresql
+      repository: oci://registry-1.docker.io/bitnamicharts
+      version: 15.5.21
+    description: A Helm chart for Kubernetes
+    digest: 60599fa02af2a081b65d43053f3b1273dc05d1bbff062cb44a69f44700f84948
+    name: moneybags
+    type: application
+    urls:
+    - https://ashwinath.github.io/helm-charts/moneybags-0.0.1.tgz
+    version: 0.0.1
+generated: "2024-08-13T15:03:47.132591223Z"
