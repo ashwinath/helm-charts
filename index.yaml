@@ -314,6 +314,20 @@ entries:
     version: 0.1.0
   moneybags:
   - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2024-08-15T12:43:43.799632525Z"
+    dependencies:
+    - name: postgresql
+      repository: oci://registry-1.docker.io/bitnamicharts
+      version: 15.5.21
+    description: A Helm chart for Kubernetes
+    digest: 358891f92260d7c26a1dd74689d396edcffce8a33052445829539b8def3035ac
+    name: moneybags
+    type: application
+    urls:
+    - https://ashwinath.github.io/helm-charts/moneybags-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v2
     appVersion: 0.0.1
     created: "2024-08-14T14:34:50.326121545Z"
     dependencies:
@@ -397,4 +411,4 @@ entries:
     urls:
     - https://ashwinath.github.io/helm-charts/moneybags-0.0.1.tgz
     version: 0.0.1
-generated: "2024-08-14T14:34:50.320448766Z"
+generated: "2024-08-15T12:43:43.794464492Z"
