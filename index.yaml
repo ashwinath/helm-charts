@@ -314,6 +314,16 @@ entries:
     version: 0.1.0
   moneybags:
   - apiVersion: v2
+    appVersion: 0.5.1
+    created: "2026-10-06T12:53:13.639176831Z"
+    description: A Helm chart for Kubernetes
+    digest: c28fbc68a004fb201bedf9c40b5f88fe4a1bea6b65f8bcc43b73139953084b1f
+    name: moneybags
+    type: application
+    urls:
+    - https://ashwinath.github.io/helm-charts/moneybags-0.5.1.tgz
+    version: 0.5.1
+  - apiVersion: v2
     appVersion: 0.5.0
     created: "2026-10-06T12:23:18.421566648Z"
     description: A Helm chart for Kubernetes
@@ -477,4 +487,4 @@ entries:
     urls:
     - https://ashwinath.github.io/helm-charts/moneybags-0.0.1.tgz
     version: 0.0.1
-generated: "2026-10-06T12:23:18.42053049Z"
+generated: "2026-10-06T12:53:13.638673873Z"
